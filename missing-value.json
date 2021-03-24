@@ -1,0 +1,10 @@
+{
+    "uuid": "2a86652f-be53-4be9-9ae6-414b3c78537f",
+    "name": "Jean",
+    "firstName":,
+    "hobbies": [
+        {"uuid": "9f5e468a-aa72-4cd0-937d-a0845bd053e4", "name": "coding"},
+        {"uuid": "60a7c607-7819-4679-b325-f59233154db8", "name": "design"},
+        {"uuid": "9f5e468a-aa72-4cd0-937d-a0845bd053e4", "name": "kayak"}
+    ]
+}
