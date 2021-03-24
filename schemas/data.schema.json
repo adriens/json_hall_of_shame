@@ -1,0 +1,28 @@
+{
+    "type": "object",
+    "properties": {
+        "uuid": {
+            "type": "string"
+        },
+        "name": {
+            "type": "string"
+        },
+        "firstName": {
+            "type": "string"
+        },
+        "hobbies": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "uuid": {
+                        "type": "string"
+                    },
+                    "name": {
+                        "type": "string"
+                    }
+                }                
+            }
+        }
+    }
+}
